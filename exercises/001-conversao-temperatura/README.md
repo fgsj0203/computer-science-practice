@@ -8,7 +8,6 @@ $$F = (C \times 9/5) + 32$$
 
 * **Entrada de exemplo:** `25.0`
 * **Saída esperada:** `77.0 °F`
-
 ---
 
 ## Relação com banco de dados 
